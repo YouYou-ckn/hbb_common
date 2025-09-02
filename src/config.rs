@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.fenyew.top"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["139.129.16.53"];
 pub const RS_PUB_KEY: &str = "B7UZ+pKCS68L+jjCbFiBGMDHqHl8yIp8eX6Pxopzyms=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
